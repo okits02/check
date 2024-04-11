@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-mergeDebugResources-65:\\layout\\activity_movies_app_project.xml",
+        "source": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-main-68:\\layout\\activity_movies_app_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-mergeDebugResources-65:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-main-68:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.moviesapp-mergeDebugResources-65:/layout/activity_main.xml",
+        "source": "com.example.moviesapp-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-mergeDebugResources-65:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-main-68:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-mergeDebugResources-65:\\layout\\slider_item_layout.xml",
+        "source": "C:\\Users\\LAPTOP24H\\.gradle\\daemon\\8.2\\com.example.moviesapp-main-68:\\layout\\slider_item_layout.xml"
+    }
+]
